@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Flutter: Run on iPhone 18 Pro",
+			"type": "shell",
+			"command": "flutter",
+			"args": [
+				"run",
+				"-d",
+				"552F6ED6-F622-4359-9DA5-6ED170B731BF"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
